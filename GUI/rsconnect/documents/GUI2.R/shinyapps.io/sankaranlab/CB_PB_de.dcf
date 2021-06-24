@@ -1,0 +1,12 @@
+name: CB_PB_de
+title: CB_PB_de
+username:
+account: sankaranlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2496382
+bundleId: 3309580
+url: https://sankaranlab.shinyapps.io/CB_PB_de/
+when: 1592972812.07188
+asMultiple: FALSE
+asStatic: FALSE

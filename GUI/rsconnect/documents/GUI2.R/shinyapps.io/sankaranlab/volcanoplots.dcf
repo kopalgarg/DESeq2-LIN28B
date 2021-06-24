@@ -1,0 +1,12 @@
+name: volcanoplots
+title: volcanoplots
+username:
+account: sankaranlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2496763
+bundleId: 3309887
+url: https://sankaranlab.shinyapps.io/volcanoplots/
+when: 1592980885.4162
+asMultiple: FALSE
+asStatic: FALSE
